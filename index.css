@@ -1,0 +1,40 @@
+.header-div {
+    display:flex;
+    justify-content: space-between;
+    border: 1px solid blanchedalmond
+}
+.logo-img{
+    width: 80px;
+
+}
+.header-div{
+    display:flex;
+    justify-content: space-between;
+    border:1px solid;
+    margin: 10px;
+}
+.Navitems >ul {
+    display:flex;
+    list-style-type: none;
+}
+.Navitems >ul >li {
+    padding: 20px;
+
+}
+.resCards > img {
+    width: 95%;
+}
+
+.resCards{
+    border:1px solid;
+    justify-content: space-between;
+    width:150px;
+    padding: 2px;
+    margin: 5px;
+    cursor: pointer;
+}
+.res-container{
+    display:flex;
+    flex-wrap: wrap;
+
+}
